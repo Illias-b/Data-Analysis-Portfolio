@@ -21,7 +21,7 @@ Below are links to individual projects showcasing my work:
 
 ### Project 1: CVM Base Cohorts Dashboard
 - **Objective**: Track customer movements across different cohorts in the B2B sector.
-- [Link to Project](#)
+- [CVM Base Cohorts]((https://github.com/Illias-b/Cohort-Movements-Dashboard.git))
 
 ### Project 2: [Project Name]
 - **Objective**: [Brief Description]
