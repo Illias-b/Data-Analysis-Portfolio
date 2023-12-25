@@ -19,13 +19,13 @@ Each project is completed within a 3-week agile sprint, ensuring timely and effi
 
 Below are links to individual projects showcasing my work:
 
-### Project 1: CVM Base Cohorts Dashboard
+### Project 1: CVM Base Cohorts
 - **Objective**: Track customer movements across different cohorts in the B2B sector.
 - [Link to Project](https://github.com/Illias-b/Cohort-Movements-Dashboard.git)
 
-### Project 2: [Project Name]
-- **Objective**: [Brief Description]
-- [Link to Project](#)
+### Project 2: Disconnect-Reconnect
+- **Objective**: Track "disconnect-reconnect" (DCRC) events where customers add or remove lines in the same transaction. 
+- [Link to Project](https://github.com/Illias-b/Disconnect-Reconnect-Dashboard.git)
 
 *(Continue listing other projects in a similar format)*
 
