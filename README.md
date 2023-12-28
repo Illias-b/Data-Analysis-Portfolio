@@ -15,19 +15,24 @@ In my role as a Data Analyst, I engage in a structured process to deliver meanin
 
 Each project is completed within a 3-week agile sprint, ensuring timely and efficient delivery of insights.
 
-## Projects
+# Projects
 
-Below are links to individual projects showcasing my work:
+Below are links to individual projects showcasing my work, along with the skills and tools used:
 
-### Project 1: CVM Base Cohorts
-- **Objective**: Track customer movements across different cohorts in the B2B sector.
-- [Link to Project](https://github.com/Illias-b/Cohort-Movements-Dashboard.git)
+## Project 1: CVM Base Cohorts
+**Objective**: Track customer movements across different B2B sector cohorts
+- Skills/Tools Used: SQL, Tableau, Data Analysis, EDA
+- [Link to Project](#)
 
-### Project 2: Disconnect-Reconnect
-- **Objective**: Track "disconnect-reconnect" (DCRC) events where customers add or remove lines in the same transaction. 
-- [Link to Project](https://github.com/Illias-b/Disconnect-Reconnect-Dashboard.git)
+## Project 2: Disconnect-Reconnect Dashboard
+**Objective**: Monitor DCRC events in customer transactions
+- Skills/Tools Used: SQL, Tableau, Data Analysis, EDA
+- [Link to Project](#)
 
-*(Continue listing other projects in a similar format)*
+## Project 3: B2B Broadband Sales Analysis
+**Objective**: Analyze 5G/4G sales data by channels and cities
+- Skills/Tools Used: SQL, Alteryx, Tableau, Data Analysis, EDA
+- [Link to Project](#)
 
 ## Contact and Feedback
 
