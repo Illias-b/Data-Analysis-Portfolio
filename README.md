@@ -6,7 +6,7 @@ This repository showcases my experience and skills in data analytics, focusing o
 
 In my role as a Data Analyst, I engage in a structured process to deliver meaningful insights to stakeholders. Each project in this portfolio follows a similar workflow:
 
-1. **Stakeholder Engagement**: Understanding requirements and defining project scope, collaborating to identify and validate key performance indicators
+1. **Stakeholder Engagement**: Understanding requirements and defining project scope, collaborating to identify and validate key performance indicators.
 2. **Exploratory Data Analysis (EDA)**: Using Snowflake to explore and understand data. When data needs to be integrated from various database systems, Alteryx is employed to streamline this process.
 3. **SQL Code Development**: Crafting SQL queries and scripts to manipulate and prepare data for analysis. This step is crucial for efficient data handling and analysis.
 4. **Visualization**: Creating intuitive and informative Tableau dashboards.
