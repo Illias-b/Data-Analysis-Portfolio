@@ -1,4 +1,4 @@
-# [Your Name]'s Data Analysis Portfolio
+# Data Analysis Portfolio
 
 This repository showcases my experience and skills in data analytics, focusing on creating insightful Tableau dashboards after comprehensive exploratory data analysis (EDA) in Snowflake. My work typically involves close collaboration with stakeholders, understanding their requirements, and delivering data-driven solutions within agile sprint frameworks.
 
