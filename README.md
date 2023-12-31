@@ -18,15 +18,15 @@ Each project is completed within a 3-week agile sprint, ensuring timely and effi
 
 Below are links to individual projects showcasing my work, along with the skills and tools used:
 
-## Project 1: CVM Base Cohorts
+## Project 1: Customer Cohohrt Analysis
 **Objective**: Track customer movements across different B2B sector cohorts
 - Skills/Tools Used: SQL, Tableau, Data Analysis, EDA
-- [Link to Project](#)
+- [Link to Project](https://github.com/Illias-b/Customer-Cohorts-Analysis.git)
 
 ## Project 2: Disconnect-Reconnect Dashboard
 **Objective**: Monitor DCRC events in customer transactions
 - Skills/Tools Used: SQL, Tableau, Data Analysis, EDA
-- [Link to Project](#)
+- [Link to Project](https://github.com/Illias-b/Disconnect-Reconnect-Analysis.git)
 
 ## Project 3: B2B Broadband Sales Analysis
 **Objective**: Analyse 5G/4G sales data by channels and cities
