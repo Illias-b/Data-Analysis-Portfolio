@@ -26,7 +26,7 @@ Below are links to individual projects showcasing my work, along with the skills
 ## Project 2: AddLine Analysis Dashboard
 **Objective**: To provide insights into line addition patterns across customer accounts, focusing on account size, LOB, and sales segments.
 - Skills/Tools Used: SQL, Tableau
-- [Link to Project](https://github.com/Illias-b/AddLine-Analysis-Dashboard.git)
+- [Link to Project](https://github.com/Illias-b/AddLine-Analysis.git)
 
 
 ## Project 3: Disconnect-Reconnect Transaction Analysis
