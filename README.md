@@ -28,7 +28,6 @@ Below are links to individual projects showcasing my work, along with the skills
 - Skills/Tools Used: SQL, Tableau
 - [Link to Project](https://github.com/Illias-b/AddLine-Analysis-Dashboard.git)
 
-- [Link to Project](https://github.com/Illias-b/AddLine-Analysis.git)
 
 ## Project 3: Disconnect-Reconnect Transaction Analysis
 **Objective**: Monitor DCRC events in customer transactions
