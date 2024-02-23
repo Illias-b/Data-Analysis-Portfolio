@@ -38,7 +38,3 @@ Below are links to individual projects showcasing my work, along with the skills
 **Objective**: Analyse 5G/4G sales data by channels and cities
 - Skills/Tools Used: SQL, Alteryx, Tableau, Data Analysis, EDA
 - [Link to Project](https://github.com/Illias-b/B2B-Broadband-Sales.git)
-
-## Contact and Feedback
-
-I welcome any feedback, questions, or opportunities for collaboration. Feel free to reach out to me at [Your Email Address].
