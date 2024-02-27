@@ -23,9 +23,9 @@ Below are links to individual projects showcasing my work, along with the skills
 - Skills/Tools Used: SQL, Tableau
 - [Link to Project](https://github.com/Illias-b/AddLine-Analysis.git)
 
-- ## Project 2: B2B Broadband Sales Analysis
-**Objective**: Analyse 5G/4G sales data by channels and cities
-- Skills/Tools Used: SQL, Alteryx, Tableau, Data Analysis, EDA
+- ## Project 2: B2B Monthly Performance Analysis
+**Objective**: Dynamic Performance Dashboard aimed at consolidating reporting across all B2B functions and products, facilitating strategic decision-making, and reducing dependency on manual reporting processes.
+- Skills/Tools Used: SQL, Tableau, Data Analysis
 - [Link to Project](https://github.com/Illias-b/B2B-Broadband-Sales.git)
 
 ## Project 3: Disconnect-Reconnect Transaction Analysis
